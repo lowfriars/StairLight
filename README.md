@@ -15,4 +15,4 @@
 
   The operation described can be suppressed while the ambient light exceeds a certain threshold.
   
-  Further details of the hardware will be supplied in due course.
+ More information about the hardware can be found (here)[https://nofirmconclusion.blogspot.com/2021/05/automatic-led-staircase-lighting.html].
